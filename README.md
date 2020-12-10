@@ -7,11 +7,11 @@ Least Significant Bit Steganography with Python and Pillow
 git clone https://github.com/JosCla/SimpleSoko && cd SimpleSoko
 ```
 2. Run the program.
-For encryption:
+- For encryption:
 ```console
 python3 lsb-stego.py
 ```
-For decryption:
+- For decryption:
 ```console
 python3 de-lsb-stego.py
 ```
