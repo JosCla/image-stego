@@ -4,7 +4,7 @@ Least Significant Bit Steganography with Python and Pillow
 ## Usage
 1. Clone the git repository and navigate into its directory.
 ```console
-git clone https://github.com/JosCla/SimpleSoko && cd SimpleSoko
+git clone https://github.com/JosCla/image-stego && cd image-stego
 ```
 2. Run the program.
 - For encryption:
